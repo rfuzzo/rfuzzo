@@ -2,7 +2,7 @@
 
 ### Hi there, I'm Moritz 👋
 
-I am a software developer at **[Yigsoft Kft.](https://yigsoft.dev/)** and work for **[CDPR](https://en.cdprojektred.com/)** as an engine tools and gameplay developer on Cyberpunk 2077.
+I am a software developer at **[Yigsoft Kft.](https://yigsoft.dev/)** and work for **[CDPR](https://en.cdprojektred.com/)** as an engine, tools and gameplay developer on Cyberpunk 2077 and The Witcher 3.
 
 --------------------------
 
